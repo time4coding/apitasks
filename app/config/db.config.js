@@ -1,5 +1,5 @@
 module.exports = {
-    HOST: "dpg-capo44v6d9kiqtaa2920-a",
+    HOST: "dpg-capo44v6d9kiqtaa2920-a.oregon-postgres.render.com",
     USER: "admin",
     PASSWORD: "NhRjPqTCgO4dB6XijoMhrXYRGtIaRU8I",
     DB: "tasks_lmgp",
