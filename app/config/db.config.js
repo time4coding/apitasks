@@ -1,5 +1,5 @@
 module.exports = {
-    HOST: "localhost",
+    HOST: "dpg-capo44v6d9kiqtaa2920-a",
     USER: "admin",
     PASSWORD: "postgres",
     DB: "tasks_lmgp",
